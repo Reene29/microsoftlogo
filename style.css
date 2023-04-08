@@ -5,35 +5,22 @@ body{
 div{
   height: 100px;
   width: 100px;
-  /* background-color: red; */
 }
 .one{
   background-color: #F34F1C;
   border-style: wavy;
-  /* position: absolute; */
-  /* bottom: 100px; */
-  /* margin: 100px; */
+ 
 }
 .two{
   background-color: #01A6F0;
-  /* position: relative;
-  left: 102px;
-  bottom: 119px;
-  margin-left: 5px; */
 
 }
 .three{
   background-color:#7FBC00;
-  /* position: absolute;
-  bottom: 125px; */
 
 
 }
 .four{
   background-color:#FFBA01;
-  /* position: absolute;
-  bottom: 125px;
-  left: 410px;
-  margin-left: 5px; */
 
 }
